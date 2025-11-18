@@ -1,0 +1,27 @@
+body {
+    background-color: white;
+    font-family: Arial;
+    margin: 0;
+    width: 100%;
+    overflow-x: hidden;
+}
+
+:root {
+    --maeshki: rgba(13, 3, 3, 0.618);
+}
+
+:root {
+    --germez: rgb(216, 20, 20);
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
+
