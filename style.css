@@ -189,6 +189,7 @@ footer>ul {
   list-style-type: none;
   padding: 74px;
 }
+
 @media screen and (max-width: 768px) {
 
   /* header */
@@ -328,11 +329,13 @@ footer>ul {
     padding: 10px;
     font-size: 12px;
   }
-  div.foother-a{
+
+  div.foother-a {
     display: flex;
     justify-content: center;
   }
-footer {
-  display: none;
-}
+
+  footer {
+    display: none;
+  }
 }
