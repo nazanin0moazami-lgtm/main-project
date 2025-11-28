@@ -242,11 +242,11 @@ footer>ul {
     /* margin-right: 5px; */
   }
 
-  div.logo {
+  /* div.logo {
     margin-top: 60px;
     display: flex;
     justify-content: center;
-  }
+  } */
 
   div.logo>img {
     width: 100px;
